@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.CartoonMansour" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="colorPrimary">@color/colorPrimaryDark</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/white</item>
+
+    </style>
+    <style name="MyToolbarStyle" parent="ThemeOverlay.AppCompat.ActionBar">
+        <!-- Used to for the title of the Toolbar -->
+        <item name="android:textColorPrimary">#fff</item>
+        <!-- Used to for the title of the Toolbar when parent is Theme.AppCompat.Light -->
+        <item name="android:textColorPrimaryInverse">#fff</item>
+        <!-- Used to color the text of the action menu icons -->
+        <item name="android:textColorSecondary">#fff</item>
+        <!-- Used to color the overflow menu icon -->
+        <item name="actionMenuTextColor">#fff</item>
+        <!-- Color of the Toolbar -->
+    </style>
+</resources>

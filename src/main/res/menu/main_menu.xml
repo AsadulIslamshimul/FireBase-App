@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_homeId"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/home" />
+
+    </group>
+
+    <item android:title="@string/communication">
+        <menu>
+
+            <item
+                android:id="@+id/action_shareId"
+                android:icon="@drawable/ic_baseline_share_24"
+                android:title="@string/action_share" />
+
+            <item
+                android:id="@+id/action_feedbackId"
+                android:icon="@drawable/feedback_24"
+                android:title="@string/action_feedback" />
+
+            <item
+                android:id="@+id/action_rate_appId"
+                android:icon="@drawable/ic_baseline_rate_review_24"
+                android:title="@string/action_rate_app"/>
+
+            <item
+                android:id="@+id/action_privacy_policy"
+                android:icon="@drawable/ic_baseline_policy_24"
+                android:title="@string/action_privacy_policy"/>
+
+            <item
+                android:id="@+id/action_more_apps"
+                android:icon="@drawable/ic_baseline_more_24"
+                android:title="@string/action_more_app"/>
+
+            <item
+                android:id="@+id/action_exitd"
+                android:icon="@drawable/ic_baseline_exit_to_app_24"
+                android:title="@string/action_exit"/>
+        </menu>
+    </item>
+
+
+</menu>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Cartoon Mansour All Videos </string>
+
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="developer_name">develoepr name</string>
+    <string name="bannar"> </string>
+
+    <string name="sponsored">Sponsored</string>
+
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="home">Home</string>
+    <string name="communication">Communication</string>
+    <string name="action_share">Share</string>
+    <string name="action_feedback">Feedback</string>
+    <string name="action_rate_app">Rate App</string>
+    <string name="action_privacy_policy">Privacy Policy</string>
+    <string name="action_more_app">More Apps </string>
+    <string name="action_exit">Exit</string>
+
+
+    <string name="Interstitial_AdUnitId">2522409118067936_2522409381401243</string>
+    <string name="Native_AdUnit_Id">2522409118067936_2522409234734591</string>
+
+
+    //IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID
+
+    //Interstitial 2522409118067936_2522409381401243
+    //Native 2522409118067936_2522409234734591
+
+</resources>
