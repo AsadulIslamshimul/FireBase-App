@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612867631535",
+    "project_id": "cartoon-mansour-all-episodes",
+    "storage_bucket": "cartoon-mansour-all-episodes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612867631535:android:6d2d468369e32bb2ec275a",
+        "android_client_info": {
+          "package_name": "com.nicolepaupa.cartoonmansour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612867631535-t4funodjbcb8b9q7nauov6a2505narci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJwSbKQMkqAHGs8hgTvNHzYNXuMNsuP74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612867631535-t4funodjbcb8b9q7nauov6a2505narci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
